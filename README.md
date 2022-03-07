@@ -6,9 +6,5 @@ Web accessibility is an increasingly important consideration for businesses. It 
  
 The Horiseon marketing agency website has been updated to follow accessibility standards so that it is optimized for search enginers and ensures that people with disabilities can access the website using assistive technologies.
 
-## Website Screenshot
-<img src="./assets/images/search-engine-optimization.jpg> 
-
-
 ## Website URL
 https://bgahan.github.io/CEB-HTML-CSS-Git-Challenge/ 
